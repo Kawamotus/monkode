@@ -1,0 +1,8 @@
+@font-face {
+    src: url(Evermore.otf);
+    font-family: 'Evermore';    
+    font-weight: normal;
+} 
+body{
+	font-family: 'Evermore'; 
+}
